@@ -40,8 +40,8 @@ All outputs are preserved in the notebook.
   - numpy
   - matplotlib
   - seaborn
-  - yfinance (if applicable)
-  - scikit-learn (if applicable)
+  - yfinance
+  - scikit-learn
 
 ---
 
